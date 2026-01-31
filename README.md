@@ -1,4 +1,4 @@
-# Tessa
+# Tessa Mariya
 Hy I'm Tessa Mariya
 🎓Artificial Intelligence and Data Science Student.
 💻Learning Python,Data Analytics and Github.
